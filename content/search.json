@@ -3,6 +3,11 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner1.png",
+      "mobile_img": "/img/uploads/logo.png"
     }
   ]
 }
