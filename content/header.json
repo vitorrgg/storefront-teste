@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "vvvvvvvvvaaaaaaaaaaaeeee",
+    "text": "O KAR DAMESH",
     "link": "/posts/esta-loja-e-um-pwa",
     "background": "#ff0000",
     "color": "#ff0000"
@@ -14,6 +14,9 @@
       {
         "title": "Esta loja é um PWA",
         "link": "/posts/esta-loja-e-um-pwa"
+      },
+      {
+        "title": "Serviços"
       }
     ],
     "phone_wpp": true,
