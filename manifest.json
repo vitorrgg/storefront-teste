@@ -32,6 +32,6 @@
   "display": "standalone",
   "start_url": ".",
   "description": "My PWA Shop",
-  "background_color": "#ffffff",
+  "background_color": "#fa0000",
   "theme_color": "#222831"
 }
