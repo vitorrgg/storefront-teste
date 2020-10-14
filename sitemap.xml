@@ -14,24 +14,6 @@
     </url>
   
     <url>
-      <loc>https://ecomplus-storefront.netlify.app/colchao-mola-bonnel</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://ecomplus-storefront.netlify.app/novo-produto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://ecomplus-storefront.netlify.app/teste</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://ecomplus-storefront.netlify.app/vestido-longo-de-renda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -50,7 +32,13 @@
     </url>
   
     <url>
-      <loc>https://ecomplus-storefront.netlify.app/xbox-360-super-slim</loc>
+      <loc>https://ecomplus-storefront.netlify.app/calca-thais</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/novo-produto-teste-de-saldo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -416,13 +404,13 @@
     </url>
   
     <url>
-      <loc>https://ecomplus-storefront.netlify.app/pages/termos</loc>
+      <loc>https://ecomplus-storefront.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ecomplus-storefront.netlify.app/pages/sobre-nos</loc>
+      <loc>https://ecomplus-storefront.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
