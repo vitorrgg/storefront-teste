@@ -1,14 +1,14 @@
 {
   "marketing_stripe": {
-    "text": "O KAR DAMESH",
-    "link": "/posts/esta-loja-e-um-pwa",
-    "background": "#ff0000",
-    "color": "#ff0000"
+    "text": "Texto opcional!",
+    "link": "",
+    "background": "#ffffff",
+    "color": "#303030"
   },
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
     "featured": [],
