@@ -2,16 +2,20 @@
   "marketing_stripe": {
     "text": "Texto opcional!",
     "link": "",
-    "background": "#ffffff",
+    "background": "#e4b71b",
     "color": "#303030"
   },
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": true,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/criancas?Crianças",
+      "/jeans?Jeans",
+      "/calcas-femininas?Calças"
+    ],
     "random": 0,
     "full_width": true
   },
