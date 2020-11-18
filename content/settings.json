@@ -1,10 +1,10 @@
 {
   "domain": "ecomplus-storefront.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff015b",
+  "primary_color": "#cca233",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/icon.png",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#37003c",
+  "secondary_color": "#1866c5",
   "icon": "/img/icon.png",
   "store_id": 1056,
   "description": "My PWA Shop",
