@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#cca233",
   "theme": {
-    "bootswatch": "superhero",
-    "custom": "niche-baby"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/icon.png",
