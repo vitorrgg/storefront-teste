@@ -4,9 +4,9 @@
   "sections": [
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "5fad3aa380c6216a3fc5202a",
-      "sort": "news"
+      "sort": null
     },
     {
       "type": "responsive-banner",
