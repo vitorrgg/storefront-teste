@@ -266,6 +266,12 @@
     </url>
   
     <url>
+      <loc>https://ecomplus-storefront.netlify.app/posts/as-vantagens-de-utilizar-imagens-de-proxima-geracao-2021-01-25</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://ecomplus-storefront.netlify.app/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
