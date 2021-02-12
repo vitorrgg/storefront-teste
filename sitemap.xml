@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://ecomplus-storefront.netlify.app/verao-21</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ecomplus-storefront.netlify.app/prods</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ecomplus-storefront.netlify.app/clacas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ecomplus-storefront.netlify.app/testpag</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ecomplus-storefront.netlify.app/headset-gaymer</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -119,6 +95,48 @@
       <loc>https://ecomplus-storefront.netlify.app/caixa-de-som-edifier-2.0-bivolt-42w-r1280t-madeira</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/produtoteste1melhorenvio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/produtoteste2melhorenvio-c227</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/produtoteste3melhorenvio-c227-c653</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/verao-21</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/prods</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/clacas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/testpag</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -261,6 +279,12 @@
   
     <url>
       <loc>https://ecomplus-storefront.netlify.app/posts/a-importancia-do-motor-de-busca-de-um-e-commerce-2021-01-25</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecomplus-storefront.netlify.app/posts/admin-2021-02-12</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
